@@ -1,0 +1,13 @@
+.bg-black
+{
+    background-color: rgb(31, 29, 29);
+}
+
+
+.carousel-caption{top:700px;}
+
+
+.underline{
+    width: 100px;height: 2px; background-color: orangered; 
+}
+.bg-light-grey{background-color: rgba(111, 111, 111, 0.09);}
